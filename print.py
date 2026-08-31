@@ -9,7 +9,7 @@ print("I play with my friends in the evening.")
 
 # Step 4: Studying
 print("I study for 2 hours at night.")
-print statement 
+ 
 algorithm 
 flowchart
 platform intro 
