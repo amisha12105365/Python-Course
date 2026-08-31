@@ -9,3 +9,12 @@ print("I play with my friends in the evening.")
 
 # Step 4: Studying
 print("I study for 2 hours at night.")
+print statement 
+algorithm 
+flowchart
+platform intro 
+odd even
+welcome
+variable, keyword, storing birthday , datatypes
+string operation , congratulation msg 
+avg, count thenotes, percentage, quare root, condition sts, profit,smal/gret, even odd, summer time , and or oper, bmi checker, cheking alpha, indetify ope, bitwise, grading sys, asci value, operator preci, devisible num , mean value, avg speed, num swap 
